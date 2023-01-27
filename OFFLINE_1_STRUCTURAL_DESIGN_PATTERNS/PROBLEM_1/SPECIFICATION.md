@@ -1,7 +1,7 @@
-Assume you are given a task to implement a PC manufacturing system which can create four
-types of PC including one gaming PC which contains AMD Ryzen 7 5700X processor having a
-cost of 28,000 BDT whereas other PCS have 11th generation intel processor respectively Core
-i5, Core i7, Core i9. Your system should be able to continuously customize PCs to meet customer
+Assume you are given a task to implement a PC manufacturing system which can create **four**
+types of PC including **one gaming PC** which contains **AMD Ryzen 7 5700X** processor having a
+cost of 28,000 BDT whereas **other PCS have 11th generation intel processor respectively Core
+i5, Core i7, Core i9**. Your system should be able to continuously customize PCs to meet customer
 requirements and deliver the product. All the PCs have CPU, motherboard, 1 TB HDD and the
 base price for all the PCs is 70,000 BDT. The first type PC has a CPU cooler of 36000 BDT, the
 second PC uses a liquid cooler of 17000 BDT and the third PC contains a DVD drive having a
