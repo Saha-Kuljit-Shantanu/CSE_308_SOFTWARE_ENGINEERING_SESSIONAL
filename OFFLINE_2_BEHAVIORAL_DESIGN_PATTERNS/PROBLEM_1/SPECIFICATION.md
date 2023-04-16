@@ -6,7 +6,7 @@ some benefits. As a part of an agreement, all the data of the premium users are 
 server of DEF Company. When the server of ABC Company is partially down (some functionalities
 are not available) or fully down, DEF Company helps to provide an uninterrupted service.
 
-a|b|c|d
+|a|b|c|d|
 
 In addition to the notifications stated above, ABC company informs **all the users** of any state
 changes. 
