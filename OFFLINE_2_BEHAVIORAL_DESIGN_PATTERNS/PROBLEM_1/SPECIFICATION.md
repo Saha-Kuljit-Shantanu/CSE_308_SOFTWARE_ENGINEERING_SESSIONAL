@@ -10,6 +10,7 @@ are not available) or fully down, DEF Company helps to provide an uninterrupted 
 |-|-|-|-|
 |Operational|Partially down| ABC company asks the user whether he/she wants to use service from two servers (partially from the server of ABC and partially from the server of DEF) or from one server (DEF) |ABC company asks the user whether he/she wants to continue using the limited functionality or pay $20 per hour to enjoy the full functionality taking service from server of DEF (this will copy all his/her data to the server of DEF)|
 |Operational|Fully down|ABC company notifies the user about the fact that the service is now provided by their partner DEF company|ABC company asks the user whether he/she wants to pay $20 per hour to take service from DEF company (this will copy all his/her data to the server of DEF)|
+|Partially down|Operational| |If the user was paying,send him/her the total bill since the last state change. |
 
 
 In addition to the notifications stated above, ABC company informs **all the users** of any state
