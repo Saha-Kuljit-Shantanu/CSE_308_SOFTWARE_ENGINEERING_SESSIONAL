@@ -1,4 +1,4 @@
 Suppose you want to setup a vending machine on your own. In your vending machine there is  only type of product is sold. The functions of your vending machine are very simple. It **collects 
 money** from the user. If the provided amount exactly matches the price of the product, it **delivers  the product**. Then it waits for another request. If the provided amount is less than the price of 
-the product it prompts user how much money more needed. If the provided amount is greater than the price of the product, then it first returns the extra money then delivers the product.  Also,** you need to keep count how many products are left in the vending machine**. You start with 
+the product it prompts user how much money more needed. If the provided amount is greater than the price of the product, then it first returns the extra money then delivers the product.  Also, ** you need to keep count how many products are left in the vending machine** . You start with 
 an arbitrary number of product and with each successful request you decrease the total product left.** If that count becomes zero (0) you shouldn’t accept any incoming request.**
