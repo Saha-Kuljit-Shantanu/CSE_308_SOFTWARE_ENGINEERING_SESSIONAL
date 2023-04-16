@@ -7,6 +7,8 @@ server of DEF Company. When the server of ABC Company is partially down (some fu
 are not available) or fully down, DEF Company helps to provide an uninterrupted service.
 
 |a|b|c|d|
+|-|-|-|-|
+|a|d|s|h|
 
 In addition to the notifications stated above, ABC company informs **all the users** of any state
 changes. 
