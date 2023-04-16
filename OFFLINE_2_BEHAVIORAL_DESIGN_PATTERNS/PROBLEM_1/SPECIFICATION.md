@@ -6,6 +6,7 @@ some benefits. As a part of an agreement, all the data of the premium users are 
 server of DEF Company. When the server of ABC Company is partially down (some functionalities
 are not available) or fully down, DEF Company helps to provide an uninterrupted service.
 
+
 |Previous State of server|Current State of server|For Premium users|For Regular users|
 |-|-|-|-|
 |Operational|Partially down| ABC company asks the user whether he/she wants to use service from two servers (partially from the server of ABC and partially from the server of DEF) or from one server (DEF) |ABC company asks the user whether he/she wants to continue using the limited functionality or pay $20 per hour to enjoy the full functionality taking service from server of DEF (this will copy all his/her data to the server of DEF)|
@@ -16,7 +17,7 @@ are not available) or fully down, DEF Company helps to provide an uninterrupted 
 |Fully down|Partially down| | |
 
 
-In addition to the notifications stated above, ABC company informs **all the users** of any state
+In addition to the notifications stated **above**, ABC company informs **all the users** of any state
 changes. 
 **You don’t need to calculate the total bill. Just use some arbitrary placeholder variable like x.**
 For simplicity, create one instance of premium user and one instance of regular user. Sending
