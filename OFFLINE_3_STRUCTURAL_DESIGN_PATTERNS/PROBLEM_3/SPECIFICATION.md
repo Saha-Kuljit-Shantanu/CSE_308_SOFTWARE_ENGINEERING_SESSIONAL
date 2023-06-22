@@ -13,7 +13,9 @@ company keeps a list of currently running projects and their managers**.
 Now, implement the above scenario by writing necessary classes and using appropriate design
 pattern. **Each component class must contain a method to show the details about an instance of
 that class. Also, each composite class must contain a method to show the hierarchy under an
-instance of that composite class.**
+instance of that composite class.** You may consider the following examples.
+
+|manager_component.details():|company_composite.hierarchy():|
 
 You need to take input from the user, using the console, as required. Also, you need to create and
 remove an instance of any component class by strictly following the hierarchy. For example, in
