@@ -3,7 +3,9 @@ electronic devices, including **Notebook Computers** and **Smartphones**. Each o
 devices has the following common functionalities.
 
 ● Users can store files in the Storage Module of a device.
+
 ● Users can interact with the device via its Interface Module.
+
 ● Users can communicate among one another using the Communication Module of a device.
 
 However, in order to facilitate these functionalities, an **Operating System** is required in the
