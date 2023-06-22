@@ -15,18 +15,20 @@ pattern. **Each component class must contain a method to show the details about 
 that class. Also, each composite class must contain a method to show the hierarchy under an
 instance of that composite class.** You may consider the following examples.
 
-|manager_component.details():|company_composite.hierarchy():|
-|-|-|
+|manager_component.details():|
+|-|
 |Name: Alan Turing
 Role: Project Manager
 Current Project: CSE308
 Number of Supervisees: 2|
+
+**company_composite.hierarchy():**
 - Manhattan Company
   - Alan Turing (CSE308)
     - Robert Oppenheimer
     - John von Neumann
   - David Patterson (CSE307)
-    - Alfred Aho |
+    - Alfred Aho 
 
 You need to take input from the user, using the console, as required. Also, you need to create and
 remove an instance of any component class by strictly following the hierarchy. For example, in
