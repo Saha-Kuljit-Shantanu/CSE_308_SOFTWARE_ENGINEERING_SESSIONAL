@@ -17,10 +17,10 @@ instance of that composite class.** You may consider the following examples.
 
 |manager_component.details():|
 |-|
-|Name: Alan Turing
-Role: Project Manager
-Current Project: CSE308
-Number of Supervisees: 2|
+|Name : **Alan Turing**
+Role : **Project Manager**
+Current Project : **CSE308**
+Number of Supervisees : **2**|
 
 **company_composite.hierarchy():**
 - Manhattan Company
