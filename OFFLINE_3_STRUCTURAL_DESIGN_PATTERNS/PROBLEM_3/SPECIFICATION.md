@@ -26,8 +26,7 @@ Number of Supervisees: 2|
     - Robert Oppenheimer
     - John von Neumann
   - David Patterson (CSE307)
-    - Alfred Aho
-|
+    - Alfred Aho|
 
 You need to take input from the user, using the console, as required. Also, you need to create and
 remove an instance of any component class by strictly following the hierarchy. For example, in
